@@ -1,0 +1,14 @@
+C:\Users\Nux\source\repos\NuxalRPG\NuxalRPG\obj\Debug\NuxalRPG.csprojResolveAssemblyReference.cache
+C:\Users\Nux\source\repos\NuxalRPG\NuxalRPG\obj\Debug\NuxalRPG.csproj.CoreCompileInputs.cache
+C:\Users\Nux\source\repos\NuxalRPG\NuxalRPG\bin\Debug\NuxalRPG.exe.config
+C:\Users\Nux\source\repos\NuxalRPG\NuxalRPG\bin\Debug\NuxalRPG.exe
+C:\Users\Nux\source\repos\NuxalRPG\NuxalRPG\bin\Debug\NuxalRPG.pdb
+C:\Users\Nux\source\repos\NuxalRPG\NuxalRPG\obj\Debug\NuxalRPG.exe
+C:\Users\Nux\source\repos\NuxalRPG\NuxalRPG\obj\Debug\NuxalRPG.pdb
+D:\Projet codé\Jeux\NuxalRPG\NuxalRPG\obj\Debug\NuxalRPG.csprojResolveAssemblyReference.cache
+D:\Projet codé\Jeux\NuxalRPG\NuxalRPG\obj\Debug\NuxalRPG.csproj.CoreCompileInputs.cache
+D:\Projet codé\Jeux\NuxalRPG\NuxalRPG\obj\Debug\NuxalRPG.exe
+D:\Projet codé\Jeux\NuxalRPG\NuxalRPG\obj\Debug\NuxalRPG.pdb
+D:\Projet codé\Jeux\NuxalRPG\NuxalRPG\bin\Debug\NuxalRPG.exe.config
+D:\Projet codé\Jeux\NuxalRPG\NuxalRPG\bin\Debug\NuxalRPG.exe
+D:\Projet codé\Jeux\NuxalRPG\NuxalRPG\bin\Debug\NuxalRPG.pdb
